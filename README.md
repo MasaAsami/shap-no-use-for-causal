@@ -1,7 +1,7 @@
 # The Limitations of Post-Hoc Causal Interpretations
 
-This repository contains the experimental code for the paper: **"The Limitations of Post-hoc Causal Interpretations"**.  
-The code demonstrates various methodologies, challenges, and case studies discussed in the paper, particularly focusing on Shapley-based methods in sociological research.
+- This repository contains the experimental code for the paper: **"The Limitations of Post-hoc Causal Interpretations"**.  
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5074003
 
 ---
 
